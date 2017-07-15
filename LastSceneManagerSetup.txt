@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Car Parking Kit 2.0/Scenes/Garage.unity
+  isLoaded: 1
+  isActive: 1
